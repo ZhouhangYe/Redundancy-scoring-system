@@ -100,6 +100,6 @@ This script is provided "as is" without warranty of any kind. Feel free to modif
 
 ## Contact
 
-For any questions or improvements, please contact [Your Name or Your Email].
+For any questions or improvements, please contact Alan Ye/ zy221@georgetown.edu.
 
 Happy coding!
